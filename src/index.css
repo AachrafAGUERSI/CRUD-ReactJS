@@ -1,0 +1,26 @@
+
+h1 {
+  font-family: Georgia;
+}
+
+li, .title {
+  font-family: serif;
+}
+h1, li {
+  text-align: center;
+}
+.title {
+  text-align: center;
+  background-color: rgb(212, 185, 212);
+  font-size: 28px;
+}
+li {
+  list-style-type: none;
+  font-size: 18px;
+  
+}
+body {
+  text-align: center;
+  background-color: rgb(100, 97, 100);
+  
+}
